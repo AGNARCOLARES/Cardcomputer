@@ -8,8 +8,10 @@ Usado por engenheiros, para realizar tarefas específicas, Ser transportado para
 
 # Características: 
 
-Tamanho de um cartão
-Possui microfone, alto-falante, slot para cartão SD
+Tamanho de um cartão de Crédito
+Possui microfone 
+alto-falante
+slot para cartão SD
 Possui Bluetooth e WiFi
 Possui porta Grove para adicionar módulos
 Possui teclado
