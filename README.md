@@ -16,6 +16,9 @@ Possui Bluetooth e WiFi.
 Possui porta Grove para adicionar módulos.
 Possui teclado.
 
+ # Evil-M5Project v1.3.9
+
+## Todos os recursos do Evil-M5Project
 - **Beacon Spam**: Gere vários SSIDs ao seu redor.
 - **Deauther**: Envie quadros de desautenticação e detecte handshakes de 4 vias e PMKID.
 - **Client Sniff And Deauth**: Detecte clientes conectados ao AP e desautentique automaticamente enquanto detecta EAPOL.
