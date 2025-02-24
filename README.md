@@ -16,8 +16,9 @@ Possui Bluetooth e WiFi.
 Possui porta Grove para adicionar módulos.
 Possui teclado.
 
-Todos os recursos do Evil-M5Project
-Escaneamento de rede WiFi : identifique e exiba redes WiFi próximas.
+# Todos os recursos do Evil-M5Project
+
+# Escaneamento de rede WiFi : identifique e exiba redes WiFi próximas.
 Clonagem de rede : verifique informações e replique redes para análise aprofundada.
 Gerenciamento de portal cativo : crie e opere um portal cativo para exibir uma página aos usuários após a conexão.
 Tratamento de credenciais : capture e gerencie credenciais do portal.
