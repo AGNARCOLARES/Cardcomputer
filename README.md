@@ -6,7 +6,7 @@ O cardputer é um microcontrolador portátil que pode ser usado para programar e
 Usado por engenheiros, para realizar tarefas específicas, Ser transportado para diferentes locais, Ser usado em conjunto com módulos adicionais. 
 
 
-Características: 
+# Características: 
 
 Tamanho de um cartão
 Possui microfone, alto-falante, slot para cartão SD
