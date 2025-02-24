@@ -16,9 +16,9 @@ Possui Bluetooth e WiFi.
 Possui porta Grove para adicionar módulos.
 Possui teclado.
 
-- **Beacon Spam**: Generate multiple SSIDs around you.
-- **Deauther**: Send deauthentication frames and sniff 4-Way handshakes and PMKID.
-- **Client Sniff And Deauth**: Sniff clients connected to AP and auto deauth while sniffing EAPOL.
+- **Beacon Spam**: Gere vários SSIDs ao seu redor.
+- **Deauther**: Envie quadros de desautenticação e detecte handshakes de 4 vias e PMKID.
+- **Client Sniff And Deauth**: Detecte clientes conectados ao AP e desautentique automaticamente enquanto detecta EAPOL.
 - **EAPOL/Deauth detection**: Detect deauthentication packets, 4-Way handshakes, PMKID, and pwnagotchi near you.
 - **Wall Of Flipper**: Detect and save Flipper Zero with Bluetooth enabled near you and detect BLE SPAM.
 - **Send Tesla code with RFunit**: Use RFunit to send Tesla codes, mimicking Flipper Zero capabilities.
