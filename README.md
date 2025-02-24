@@ -1,6 +1,7 @@
 # Cardcomputer
 
-![Captura de tela 2025-02-24 152923](https://github.com/user-attachments/assets/1e713b98-a8aa-4343-8365-22ebc353d505)
+![24057_2](https://github.com/user-attachments/assets/bff50bd7-29a9-4668-a469-a406e885be3f)
+
 
 
 
